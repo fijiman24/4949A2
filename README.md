@@ -1,4 +1,3 @@
-# 4949A2
-A2 of 4949, host predictive model online
+Stacked model that predicts whether a tumor is malignant or benign.
 
-website link: https://cancer-5v51.onrender.com/
+Website link: https://cancer-5v51.onrender.com/
